@@ -6,7 +6,7 @@
 
 ## 目录
 0. [前言](#README)
-0. [测试页](#docs/test)
+0. [参考资料](#docs/reference)
 
 ## 附录 
 - [源码](https://github.com/mumingv/gitreposity)
