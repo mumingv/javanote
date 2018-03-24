@@ -11,6 +11,7 @@
 
 
 ## ElasticSearch
+0. [环境安装](#docs/es/install)
 0. [参考资料](#docs/es/reference)
 
 
