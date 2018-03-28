@@ -5,7 +5,6 @@
 - [《Elasticsearch参考手册》英文版](https://www.elastic.co/guide/en/elasticsearch/reference/current/index.html)
 - [《Elasticsearch 权威指南》中文版](https://www.elastic.co/guide/cn/index.html?baymax=rtp&elektra=home&storm=sub1&iesrc=ctr)
 - [《Elasticsearch 权威指南》英文版](https://www.elastic.co/guide/en/elasticsearch/guide/current/index.html)
-
 - [《Kibana参考手册》英文版](https://www.elastic.co/guide/en/kibana/6.2/index.html)
 
 

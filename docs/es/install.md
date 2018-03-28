@@ -7,6 +7,7 @@
 安装运行
 
 ```
+$ cd /usr/local/src
 $ wget https://artifacts.elastic.co/downloads/elasticsearch/elasticsearch-6.2.2.tar.gz
 $ tar xvzf elasticsearch-6.2.2.tar.gz
 $ cd elasticsearch-6.2.2
